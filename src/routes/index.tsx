@@ -322,7 +322,7 @@ function Hero() {
                 View Projects <ArrowRight className="ml-2 h-4 w-4 transition-transform group-hover:translate-x-1" />
               </Button>
             </a>
-            <a href="/Akanksha_Khurana_Resume.pdf" download="Akanksha_Khurana_Resume.pdf" target="_blank" rel="noreferrer">
+            <a href="/Akanksha Khurana Resume.pdf" download="Akanksha Khurana Resume.pdf" target="_blank" rel="noreferrer">
               <Button size="lg" variant="outline" className="rounded-full border-border bg-secondary/50 backdrop-blur">
                 <Download className="mr-2 h-4 w-4" /> Resume
               </Button>
