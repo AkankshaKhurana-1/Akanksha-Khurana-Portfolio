@@ -12,7 +12,7 @@ import { Badge } from "@/components/ui/badge";
 import { Input } from "@/components/ui/input";
 import { Textarea } from "@/components/ui/textarea";
 import { toast, Toaster } from "sonner";
-import portrait from "@/assets/akanksha-profile.png";
+import portrait from "@/assets/akanksha-profile.jpg";
 import resumeAsset from "@/assets/resume.pdf.asset.json";
 
 export const Route = createFileRoute("/")({
